@@ -4,6 +4,7 @@ This repository contains solutions to a three-part Data Engineering assignment f
 
 ## Video Walkthrough
 A video overview of each assignment provides a walkthrough of the main steps, design decisions, and final outcomes for each task.
+
 [Youtube Video Link](https://youtu.be/hxJRSfIKKyg)
 
 ## Project Details
