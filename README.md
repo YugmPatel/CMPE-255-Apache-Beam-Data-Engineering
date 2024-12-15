@@ -2,6 +2,10 @@
 
 This repository contains solutions to a three-part Data Engineering assignment focused on data exploration, automated analysis, and Apache Beam for data processing. Each assignment is organized into its own directory for clarity.
 
+## Video Walkthrough
+A video overview of each assignment provides a walkthrough of the main steps, design decisions, and final outcomes for each task.
+[Youtube Video Link](https://youtu.be/hxJRSfIKKyg)
+
 ## Project Details
 
 ### Assignment 1: Exploratory Data Analysis (EDA) with D3.js
@@ -13,5 +17,4 @@ This repository contains solutions to a three-part Data Engineering assignment f
 ### Assignment 3: Apache Beam Feature Demonstration
 - **Overview**: This task showcases core Apache Beam concepts including composite transforms, windowing, triggers, and streaming. Using the BeamML library, we integrate ML workflows, demonstrating the framework’s flexibility and scalability.
 
-## Video Walkthrough
-A video overview of each assignment provides a walkthrough of the main steps, design decisions, and final outcomes for each task.
+
